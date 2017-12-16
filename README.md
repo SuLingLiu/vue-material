@@ -17,3 +17,4 @@
 3. 在用scss的地方写上
 
     <style lang="scss" scoped="" type="text/css"></style>
+ 
