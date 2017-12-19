@@ -17,10 +17,6 @@
 ```
 3. 在用scss的地方写上
 
-    <style lang="scss" scoped="" type="text/css"></style>
+    <style lang="scss" scoped></style>
     
-    
-## 开发项目流程
-
-1. 配置环境
-2. 配置假数据
+    scoped表示局部作用域
